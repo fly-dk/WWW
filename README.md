@@ -1,2 +1,2 @@
 # WWW
-when,where and waht
+when,where and what
